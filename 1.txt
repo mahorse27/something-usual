@@ -1,3 +1,0 @@
-pyre-extensions==0.0.23
-numpy
---verbose --no-deps -e .
